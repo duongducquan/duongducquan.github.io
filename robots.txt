@@ -3,12 +3,12 @@
 User-agent: *
 Allow: /
 
-# Google Images
+# Googlebot & Googlebot-Image
+User-agent: Googlebot
+Allow: /
+
 User-agent: Googlebot-Image
 Allow: /
 
-# Disallow admin/private paths (none currently)
-# Disallow: /admin/
-# Disallow: /private/
-
 Sitemap: https://duongducquan.github.io/sitemap.xml
+Sitemap: https://duongducquan.github.io/duong-duc-quan/sitemap.xml
