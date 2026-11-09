@@ -1,4 +1,5 @@
 # Duong Duc Quan (DuongDucQuan / duongducquan)
+# https://duongducquan.github.io/
 User-agent: *
 Allow: /
 
@@ -6,4 +7,8 @@ Allow: /
 User-agent: Googlebot-Image
 Allow: /
 
-Sitemap: https://duongducquan.github.io/duong-duc-quan/sitemap.xml
+# Disallow admin/private paths (none currently)
+# Disallow: /admin/
+# Disallow: /private/
+
+Sitemap: https://duongducquan.github.io/sitemap.xml
