@@ -1,0 +1,13 @@
+/* SITE */
+Name: Dương Đức Quân (DuongDucQuan)
+Job: Full Stack Web Developer
+Location: Thủ Đức, TP. Hồ Chí Minh, Việt Nam
+Languages: Tiếng Việt, English
+Doctype: HTML5
+Stack: HTML, CSS, JavaScript
+Build: Static (GitHub Pages)
+Contact: https://www.facebook.com/DuongDucQuann
+GitHub: https://github.com/duongducquan
+Site: https://duongducquan.github.io/
+Subpage: https://duongducquan.github.io/duong-duc-quan/
+SEO Keywords: Dương Đức Quân, duongducquan, Dương đức quân, DuongDucQuan, Duong Duc Quan, Full Stack Developer
