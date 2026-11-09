@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trần Đức Lân | Profile</title>
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css">
+<!-- FontAwesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<!-- Google Font -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Toggle theme button -->
+<button id="themeToggle" class="theme-toggle" title="Đổi giao diện sáng / tối">
+  <i class="fa-solid fa-moon"></i>
+</button>
+
+<div class="profile-card">
+
+  <!-- Banner -->
+  <div class="banner">
+    <img src="banner.jpg" alt="banner">
+  </div>
+
+  <!-- Avatar + Name -->
+  <div class="head-block">
+    <div class="avatar-wrap">
+      <img src="ngan.jpg" alt="avatar" class="avatar" id="avatarImg">
+    </div>
+    <h1 class="name">Trần Đức Lân <i class="fa-solid fa-circle-check verified"></i></h1>
+  </div>
+
+  <!-- Links list -->
+  <div class="link-list">
+
+    <a class="link-row" href="https://www.facebook.com/thien.nhan.860072" target="_blank">
+      <div class="icon-circle fb-bg"><i class="fa-brands fa-facebook-f"></i></div>
+      <div class="link-text">
+        <div class="link-title">Facebook</div>
+        <div class="link-sub">Trần Đức Lân</div>
+      </div>
+      <span class="link-btn">OPEN</span>
+    </a>
+
+    <a class="link-row" id="tiktokLink" href="https://www.tiktok.com/@duclan.668" target="_blank">
+      <div class="icon-circle tiktok-bg"><i class="fa-brands fa-tiktok"></i></div>
+      <div class="link-text">
+        <div class="link-title">TikTok</div>
+        <div class="link-sub">Đức Lân Homes · @duclan.668</div>
+      </div>
+      <span class="link-btn">OPEN</span>
+    </a>
+
+    <a class="link-row" id="igLink" href="https://www.instagram.com/duclan668/" target="_blank">
+      <div class="icon-circle ig-bg"><i class="fa-brands fa-instagram"></i></div>
+      <div class="link-text">
+        <div class="link-title">Instagram</div>
+        <div class="link-sub" id="igHandle">@duclan668</div>
+      </div>
+      <span class="link-btn">OPEN</span>
+    </a>
+
+    <a class="link-row" href="https://zalo.me/0924849669" target="_blank">
+      <div class="icon-circle zalo-bg">Za</div>
+      <div class="link-text">
+        <div class="link-title">Zalo</div>
+        <div class="link-sub">0924849669</div>
+      </div>
+      <span class="link-btn">OPEN</span>
+    </a>
+
+    <div class="link-row" id="phoneRow">
+      <div class="icon-circle phone-bg"><i class="fa-solid fa-phone"></i></div>
+      <div class="link-text">
+        <div class="link-title">Hotline</div>
+        <div class="link-sub">0924849669</div>
+      </div>
+      <a class="link-btn" href="tel:0924849669">CALL</a>
+      <button class="copy-btn" data-copy="0924849669" title="Sao chép"><i class="fa-regular fa-copy"></i></button>
+    </div>
+
+    <div class="link-row" id="mailRow">
+      <div class="icon-circle mail-bg"><i class="fa-solid fa-envelope"></i></div>
+      <div class="link-text">
+        <div class="link-title">Gmail</div>
+        <div class="link-sub">tranduclan2307@gmail.com</div>
+      </div>
+      <a class="link-btn" href="mailto:tranduclan2307@gmail.com">MAIL</a>
+      <button class="copy-btn" data-copy="tranduclan2307@gmail.com" title="Sao chép"><i class="fa-regular fa-copy"></i></button>
+    </div>
+
+  </div>
+
+  <div class="footer-note">© 2026 Trần Đức Lân · Bcons City <i class="fa-solid fa-heart" style="color:#f43f5e;"></i></div>
+
+</div>
+
+<div class="toast" id="copyToast">Đã sao chép!</div>
+
+<script src="script.js"></script>
+</body>
+</html>

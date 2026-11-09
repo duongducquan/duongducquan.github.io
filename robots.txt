@@ -1,0 +1,9 @@
+# Duong Duc Quan (DuongDucQuan / duongducquan)
+User-agent: *
+Allow: /
+
+# Google Images
+User-agent: Googlebot-Image
+Allow: /
+
+Sitemap: https://duongducquan.github.io/duong-duc-quan/sitemap.xml
