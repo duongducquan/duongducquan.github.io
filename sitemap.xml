@@ -1,9 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://duongducquan.github.io/duong-duc-quan/</loc>
     <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-1.jpg</image:loc>
+      <image:title>Dương Đức Quân – Full Stack Developer TP.HCM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-2.jpg</image:loc>
+      <image:title>Dương Đức Quân – lập trình viên web Việt Nam</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-3.jpg</image:loc>
+      <image:title>DuongDucQuan portfolio – Dương Đức Quân</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-4.jpg</image:loc>
+      <image:title>Dương Đức Quân – ReactJS NodeJS developer</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-5.jpg</image:loc>
+      <image:title>Dương Đức Quân – sinh viên IT TP.HCM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-6.jpg</image:loc>
+      <image:title>Dương Đức Quân – Full Stack Developer Thủ Đức</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-7.jpg</image:loc>
+      <image:title>Dương Đức Quân – lập trình viên PHP MySQL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-8.jpg</image:loc>
+      <image:title>Dương Đức Quân – web developer Việt Nam</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-9.jpg</image:loc>
+      <image:title>Duong Duc Quan – developer Việt Nam</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-10.jpg</image:loc>
+      <image:title>Dương Đức Quân – portfolio lập trình viên</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-11.jpg</image:loc>
+      <image:title>Dương Đức Quân – GitHub Pages portfolio</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-12.jpg</image:loc>
+      <image:title>Dương Đức Quân – Full Stack Developer TP.HCM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://duongducquan.github.io/duong-duc-quan/images/anh-13.jpg</image:loc>
+      <image:title>DuongDucQuan – lập trình viên Full Stack</image:title>
+    </image:image>
   </url>
 </urlset>
