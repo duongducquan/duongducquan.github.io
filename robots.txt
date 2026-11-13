@@ -25,3 +25,4 @@ Allow: /
 
 Sitemap: https://duongducquan.github.io/sitemap.xml
 Sitemap: https://duongducquan.github.io/duong-duc-quan/sitemap.xml
+Sitemap: https://duongducquan.web.app/sitemap-webapp.xml
