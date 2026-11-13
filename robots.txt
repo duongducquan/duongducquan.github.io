@@ -10,5 +10,18 @@ Allow: /
 User-agent: Googlebot-Image
 Allow: /
 
+# Bingbot & AI Crawlers (ChatGPT / Copilot / SearchGPT)
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
 Sitemap: https://duongducquan.github.io/sitemap.xml
 Sitemap: https://duongducquan.github.io/duong-duc-quan/sitemap.xml
